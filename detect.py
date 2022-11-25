@@ -16,7 +16,7 @@ from model import XCE4_Net
 from data import dct
 model = XCE4_Net()
 
-model.load_state_dict(torch.load("best_4_detector_0.976119.pth"))# 见 release
+model.load_state_dict(torch.load("pretrained.pth"))# 见 release
 model.eval()
 
 model.cuda()
