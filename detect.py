@@ -21,7 +21,6 @@ model.eval()
 
 model.cuda()
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-torch.save(model, "1_detector.pth")
 
 def plot_result(imgpath):
 
