@@ -2,6 +2,7 @@
 
 Detection solution for Deepfake images
 在频率角度对深度gan换脸和deepfake的图片进行特征提取并检测
+![detector_network](https://user-images.githubusercontent.com/53009474/203906791-0dc8936e-6934-425c-b697-e9ac36a0049a.png)
 
 依赖参考requirements.txt
 
