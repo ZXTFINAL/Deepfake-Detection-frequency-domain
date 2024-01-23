@@ -2,7 +2,10 @@
 
 Detection solution for Deepfake images
 在频率角度对深度gan换脸和deepfake的图片进行特征提取并检测
-![detector_network](https://user-images.githubusercontent.com/53009474/203906791-0dc8936e-6934-425c-b697-e9ac36a0049a.png)
+![图片1](https://github.com/ZXTFINAL/Deepfake-Detection-frequency-domain/assets/53009474/c2130bbd-c8d0-4de5-8bcb-86058210e6d5)
+![图片2](https://github.com/ZXTFINAL/Deepfake-Detection-frequency-domain/assets/53009474/e18263da-3d1c-4996-a914-f15c87ce1364)
+![图片3](https://github.com/ZXTFINAL/Deepfake-Detection-frequency-domain/assets/53009474/c6a06147-c8f5-493a-89c4-aadf8f048b23)
+![image](https://user-images.githubusercontent.com/53009474/203890416-f91469fb-e3f7-4312-9ef8-f7be341e856a.png)
 
 依赖参考requirements.txt
 
@@ -29,6 +32,8 @@ Definition of examples for training should be various.
 
 ![cut_1real](https://user-images.githubusercontent.com/53009474/203890540-3cce811e-e548-495c-b3f7-6fa486be3c7c.jpg)
 ![cut_66](https://user-images.githubusercontent.com/53009474/203890575-e8accd23-b82d-4e6a-a837-ac475b53ef8e.jpg)
+网络结构
+![detector_network](https://user-images.githubusercontent.com/53009474/203906791-0dc8936e-6934-425c-b697-e9ac36a0049a.png)
 
 
 
